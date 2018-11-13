@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cdump", "cdump\cdump.csproj", "{72937152-F75E-4C24-9E85-099F9938CA74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Debug|x64.ActiveCfg = Debug|x64
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Debug|x64.Build.0 = Debug|x64
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Release|x64.ActiveCfg = Release|x64
+		{72937152-F75E-4C24-9E85-099F9938CA74}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94A574E-965B-4F9C-B1CC-D42623AF33CF}
+	EndGlobalSection
+EndGlobal
